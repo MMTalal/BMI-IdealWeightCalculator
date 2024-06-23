@@ -1,4 +1,4 @@
-# Python BMI and Ideal Weight Calculator
+# BMI and Ideal Weight Calculator
 
 Welcome to the Python BMI and Ideal Weight Calculator! This program allows you to calculate your Body Mass Index (BMI) and determine your ideal weight based on your gender, height, and weight.
 
