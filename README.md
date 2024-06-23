@@ -7,7 +7,7 @@ Welcome to the Python BMI and Ideal Weight Calculator! This program allows you t
 
 1. Clone the repository or download the code files.
 2. Make sure you have Python installed on your machine.
-3. Run the `bmi_calculator.py` file in your favorite Python IDE or from the command line.
+3. Run the `BMI and Ideal Weight Calculator.py` file in your favorite Python IDE or from the command line.
 4. Follow the prompts to input your weight, height, age, and gender.
 5. The program will calculate your BMI and provide information about your weight status.
 6. It will also calculate your ideal weight and suggest if you need to increase or decrease your weight.
